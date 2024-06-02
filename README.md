@@ -1,4 +1,4 @@
-![logo](paste her link)
+![logo](https://github.com/Laxmanp23/Laxmanp23/blob/main/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Laxman Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="laxman Pawar" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
