@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![logo](https://github.com/Laxmanp23/Laxmanp23/blob/main/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner.png)
 =======
 
@@ -7,7 +7,7 @@
 <img align="right" alt="laxman Pawar" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmanp23&label=Profile%20views&color=0e75b6&style=flat" alt="laxmanp23" /> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about ***react***
 
 - 📫 How to reach me **laxmanpawar4675@gmail.com**
 
